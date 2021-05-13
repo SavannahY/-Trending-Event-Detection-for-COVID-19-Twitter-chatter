@@ -1,7 +1,6 @@
 # Trending-Event-Detection-for-COVID-19-Twitter-chatter
 
 ## blog post.
-$r$
 
 https://yangzhengjie33.medium.com/trending-event-detection-using-anomaly-detection-for-covid-19-twitter-chatter-8029254ee659
 
